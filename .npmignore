@@ -1,0 +1,30 @@
+# Source files
+*.ts
+!*.d.ts
+
+# Config files
+.eslintrc.js
+.prettierrc
+tsconfig.json
+gulpfile.js
+jest.config.js
+
+# Test files
+test/
+coverage/
+
+# IDE
+.idea/
+.vscode/
+
+# Git
+.git/
+.gitignore
+
+# Development
+scripts/
+*.log
+
+# Docs (keep in npm package)
+# README.md - included
+# LICENSE - included
